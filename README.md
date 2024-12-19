@@ -8,3 +8,4 @@ About Us Section: Highlights why the gym is unique, emphasizing a supportive env
 Pricing Plans: Provides clear and competitive membership plans, including Basic, Pro, and Premium options, catering to different needs and budgets.
 Client Reviews: Showcases positive testimonials from satisfied clients, fostering trust and credibility.
 Join Us Button: Encourages users to sign up for membership, with plans for enhanced functionality to collect user information directly.
+Link to the website fithealthpro.netlify.app
